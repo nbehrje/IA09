@@ -10,3 +10,5 @@ Drag a finger within the right half of the screen. When using the VTracker Brush
 Press `CLEAR` and select `OK`.
 ##Saving
 Press `SAVE`.
+##Online Resources Used
+developer.android.com
